@@ -1,0 +1,9 @@
+{
+    "editor.tokenColorCustomizations": {
+    "[Abyss]": {
+        "comments": "#01c2bc", 
+        "keywords": "#20f61c",
+        "functions": "#5ca3f3", 
+    }
+}
+}
